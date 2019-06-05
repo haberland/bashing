@@ -1,0 +1,2 @@
+# bashing
+some bash skripts
