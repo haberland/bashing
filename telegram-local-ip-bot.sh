@@ -1,5 +1,9 @@
 #!/bin/bash
 
+//This is a telegram bot which sends you updates of your network devices.
+//The bot informs you when a divice leves or enters your network.
+
+//save the current path as your working path
 dir=$(pwd);
 
 //Your Network IP and Subnet, count the devices
